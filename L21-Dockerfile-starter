@@ -15,9 +15,6 @@ COPY --chown=user requirements.txt .
 
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
-
-
-# ④ وهلأ انسخ باقي المشروع — وكمان ملك المستخدم
 COPY --chown=user . .
 
 EXPOSE 10000
