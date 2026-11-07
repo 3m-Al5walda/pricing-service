@@ -67,7 +67,7 @@ def home():
     """صفحة الترحيب."""
     return """<!doctype html>
 <html lang="ar" dir="rtl"><head><meta charset="utf-8">
-<title>خدمة التسعير</title>
+<title>خدمة التسعير النسخة ٢</title>
 <style>
  body{font-family:system-ui,sans-serif;background:#0f1419;color:#e8eaed;
       display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0}
@@ -78,7 +78,7 @@ def home():
    background:#1f2937;color:#e8eaed;text-decoration:none;font-family:monospace}
  a:hover{background:#2d3748}
 </style></head><body><div class="c">
-<h1>خدمة التسعير شغّالة ✓</h1>
+<h1> النسخة ٢ خدمة التسعير شغّالة ✓</h1>
 <p>وهاي على الإنترنت — مش على جهازك</p>
 <a href="/quote?code=A-100">/quote?code=A-100</a>
 <a href="/health">/health</a>
