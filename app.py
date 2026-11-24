@@ -105,7 +105,7 @@ def home():
    background:#1f2937;color:#e8eaed;text-decoration:none;font-family:monospace}
  a:hover{background:#2d3748}
 </style></head><body><div class="c">
-<h1>خدمة التسعير شغّالة ✓</h1>
+<h1>برعاية عبدالله خدمة التسعير شغّالة ✓</h1>
 <p>وهاي على الإنترنت — مش على جهازك</p>
 <a href="/quote?code=A-100">/quote?code=A-100</a>
 <a href="/health">/health</a>
